@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pricila/static/css/main.e6c13ad2.css",
+    "main.js": "/Pricila/static/js/main.1ad91b86.js",
+    "static/js/453.3f323779.chunk.js": "/Pricila/static/js/453.3f323779.chunk.js",
+    "index.html": "/Pricila/index.html",
+    "main.e6c13ad2.css.map": "/Pricila/static/css/main.e6c13ad2.css.map",
+    "main.1ad91b86.js.map": "/Pricila/static/js/main.1ad91b86.js.map",
+    "453.3f323779.chunk.js.map": "/Pricila/static/js/453.3f323779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1ad91b86.js"
+  ]
+}
